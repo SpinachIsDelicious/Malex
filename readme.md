@@ -35,7 +35,7 @@ The developer key allows me to access beta features. It may be given to beta tes
 
 ## Some info
 Malex requests a Pastebin in order to make sure the version of Malex is fully updated and prevents use of older versions of Malex (I don't want you to use older versions)
-[The pastebin requested by Malex](https://pastebin.com/raw/Rsr7KGZ0)
+[The pastebin requested by Malex](https://pastebin.com/raw/Rsr7KGZ0) <br>
 Don't believe me? Like, why would I care?
 ### How does the Pastebin work
 The version is stored by the Malex code. Malex compares the Pastebin raw data to the version stored and if the version is outdated, it will not let you operate Malex.
