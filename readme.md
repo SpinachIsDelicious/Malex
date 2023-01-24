@@ -23,6 +23,7 @@ Malex is not an open source solution because of skids and stealers of code. I ge
 
 ### Contact
 [Email](mailto:spinachofficial@protonmail.com) Slow at getting in contact, effective
+<br>
 [Discord](https://discord.com/users/871531078391853158) Add me on Discord for now, I will create a support server later
 More contact methods may be added.
 
