@@ -1,7 +1,8 @@
 # MalexCopy
 
 This is a copy of The PC Security Channel's malware testing solution Malex.
-![image](https://user-images.githubusercontent.com/91394707/214346054-62fb78e2-cac1-4fd9-bfcc-80839c067aba.png)
+![image](https://user-images.githubusercontent.com/91394707/214511525-a732994c-9252-4354-b70a-cd5bcc1773d5.png)
+
 Malex is considered malicious by 6 solutions. If you are asking this, it is because Malex is a malware executor. These are false positives, and it is supposed to be ran on a virtual machine anyway.
 
 Malex is not an open source solution because of skids and stealers of code. I get irritated at them, and of course this is supposed to be ran on a virtual machine anyway.
@@ -44,3 +45,16 @@ The version is stored by the Malex code. Malex compares the Pastebin raw data to
 
 ### Can I develop alongside you?
 No
+
+
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+Stable v1 Virustotal Detections
+![image](https://user-images.githubusercontent.com/91394707/214346054-62fb78e2-cac1-4fd9-bfcc-80839c067aba.png)
