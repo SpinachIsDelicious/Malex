@@ -6,14 +6,16 @@ Malex is considered malicious by 6 solutions. If you are asking this, it is beca
 
 Malex is not an open source solution because of skids and stealers of code. I get irritated at them, and of course this is supposed to be ran on a virtual machine anyway.
 
-### Features
-- Memory checking
-- User friendly
-- Debug (if there is an error, it will tell you)
-- Stable version checking (uses requests module of Python)
-- Prediction of the time all files will be executed
-- Gets total time for all files to finish running
-- Virtual memory overload protection: if the RAM on your system is overloaded it will not run the file and instead wait one second until the RAM drops. (You must have good ram on the VM)
+## Features
+- BETTER Memory checking
+- BETTER User friendly
+- NEW Debug (if there is an error, it will tell you)
+- NEW Stable version checking (uses requests module of Python)
+- BETTER Prediction of the time all files will be executed
+- BETTER Gets total time for all files to finish running
+- NEW Virtual memory overload protection: if the RAM on your system is overloaded it will not run the file and instead wait one second until the RAM drops. (You must have good ram on the VM)
+- NEW Information.txt containing information about all the tasks
+- NEW Hardware banning system
 
 ### To-do
 - Use the requests module on Malex to grab my discord information and display it updated (really easy, but i'm lazy)
