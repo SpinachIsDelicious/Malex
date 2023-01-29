@@ -43,8 +43,7 @@ Don't believe me? Like, why would I care?
 ### How does the Pastebin work
 The version is stored by the Malex code. Malex compares the Pastebin raw data to the version stored and if the version is outdated, it will not let you operate Malex.
 
-### Can I develop alongside you?
-No
+I may share the original Python source code soon.
 
 
 
@@ -56,5 +55,5 @@ No
 <br>
 <br>
 <br>
-Stable v1 Virustotal Detections
+Stable v1 Virustotal Detections <br>
 ![image](https://user-images.githubusercontent.com/91394707/214346054-62fb78e2-cac1-4fd9-bfcc-80839c067aba.png)
