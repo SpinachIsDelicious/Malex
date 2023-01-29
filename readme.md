@@ -56,4 +56,5 @@ I may share the original Python source code soon.
 <br>
 <br>
 Stable v1 Virustotal Detections <br>
+
 ![image](https://user-images.githubusercontent.com/91394707/214346054-62fb78e2-cac1-4fd9-bfcc-80839c067aba.png)
