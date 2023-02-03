@@ -26,9 +26,7 @@ Malex is not an open source solution because of skids and stealers of code. I ge
 - Automatically updating Malex?
 
 ### Contact
-[Email](mailto:spinachofficial@protonmail.com) Slow at getting in contact, effective <br>
-[Discord](https://discord.com/users/871531078391853158) Add me on Discord for now, I will create a support server later
-More contact methods may be added.
+Make an issue ticket.
 
 ### Support
 Need support? Create a GitHub account if you do not already have one. Go to the Issues section and include a question or bug. I will respond shortly.
