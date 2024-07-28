@@ -1,7 +1,7 @@
 # MalexCopy
 
-##Update: Malex is pretty bugged and TPSC also released Malex, go get his solution instead
-
+## Update: Malex is pretty bugged and TPSC also released Malex, go get his solution instead
+ 
 This is a copy of The PC Security Channel's malware testing solution Malex.
 ![image](https://user-images.githubusercontent.com/91394707/214511525-a732994c-9252-4354-b70a-cd5bcc1773d5.png)
 
